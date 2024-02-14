@@ -1,0 +1,16 @@
+{
+  "user": [
+    {
+      "id": "a218",
+      "name": "user1",
+      "email": "user1@gmail.com",
+      "phone": "334455"
+    },
+    {
+      "id": "2deb",
+      "name": "user2",
+      "email": "user2@gmail.com",
+      "phone": "223445"
+    }
+  ]
+}
